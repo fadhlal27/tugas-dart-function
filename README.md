@@ -9,6 +9,6 @@ Tugas ini berisi contoh penggunaan 4 jenis fungsi pada 3 topik berbeda.
 4. **Return Dengan Parameter**: Fungsi paling lengkap yang butuh input dan memberikan nilai hasil prosesnya.
 
 ### Cara Menjalankan:
-Gunakan perintah `dart main.dart` pada terminal.
+Gunakan perintah `dart run function.dart` pada terminal.
 
 **Nama:** Muhammad Fadhlal Arifqi Nur Ghiffary
